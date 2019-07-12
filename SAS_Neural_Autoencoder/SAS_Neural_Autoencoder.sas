@@ -45,7 +45,7 @@ limitations under the License.
 ******************************************************************************;
 
 *** SET GITHUB DATA DIRECTORY (MUST CONTAIN PROVIDER_SUMMARY.SAS7BDAT);
-%let git_repo_dir = C:\Users\hazazi\Desktop\Codes\enlighten-deep\SAS_Neural_Autoencoder;
+%let git_repo_dir = ;
 
 *** SET NUMBER OF AVAILABLE CORES;
 %let num_cores = 12;
